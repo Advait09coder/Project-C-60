@@ -1,0 +1,76 @@
+body{
+  text-align:center;
+  background: rgb(160,201,142);
+background: linear-gradient(90deg, rgba(160,201,142,1) 8%, rgba(19,189,190,1) 38%, rgba(0,212,255,1) 100%);
+  background-repeat:no-repeat;
+}
+h1{
+  text-shadow:2px 2px #F8BBDO;
+  font-size:40px;
+  font-family: ZCOOL KuaiLe;
+    
+}
+#about{
+  padding:20px;
+  font-size:20px;
+  text-align:center;
+}
+.line{
+  background-color:black;
+    width:80px;
+    height:5px;
+    margin:50px auto;
+
+}
+.pic{
+  border-radius:50%;
+  width:400px;
+}
+.menu{
+    list-style: none;
+    font-family:cursive;
+    float: right;
+    top: 0px;
+    right:30px;
+    cursor: pointer;
+    color: black;
+    display: inline;
+    position: fixed;
+    background-color: white;
+}
+.link:hover{
+transform: scale(1.3);
+}
+#bookinfo{
+    padding: 20px;
+    font-size:20px;
+    text-align: center;
+}
+button{
+    height: 80px;
+    width: 300px;
+    background: rgb(162,217,150);
+    background: linear-gradient(90deg, rgba(162,217,150,1) 2%, rgba(107,237,103,1) 39%, rgba(0,212,255,1) 100%);
+    font-size: 25px;
+    font-family: ZCOOL KuaiLe;
+    cursor: pointer;
+}
+#myidol{
+    text-align: center;
+}
+#Notch{
+    width: 700px;
+    height: 800px;
+    border: 20px groove;
+}
+#myidol2{
+    width: 700px;
+    height: 800px;
+    border: 20px groove;
+}
+#Notch:hover{
+    transform: scale(1.2)
+}
+#myidol2:hover{
+    transform: scale(1.2)
+}
